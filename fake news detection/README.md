@@ -14,8 +14,9 @@ The dataset contains labeled news articles with features including:
 * `Text` – Full content of the news article
 * `Label` – Classification: `FAKE` or `REAL`
 
-> Dataset source: [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
-
+> Dataset source:
+> [True News Dataset](https://drive.google.com/file/d/1hpFfZuFdkYGVUicCTUfdm3dd9Deq0qIX/view?usp=sharing)
+> [Fake News Dataset](https://drive.google.com/file/d/1C0RGp5QO8zHy2PVum4NDK5qW7Qpp9Bfo/view?usp=sharing)
 ---
 
 ## Key Features
