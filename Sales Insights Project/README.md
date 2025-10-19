@@ -19,8 +19,6 @@ The dataset used in this project is a **retail sales dataset** containing 9,800 
 * `Sales` – Revenue from each order
 * `Profit` – Profit from each order (if available)
 
-> **Note:** The dataset can be downloaded from [Kaggle Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
-
 ---
 
 ## Project Features
