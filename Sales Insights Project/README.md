@@ -3,7 +3,6 @@
 ## Project Overview
 
 The **Sales Insights Project** is a data analysis project aimed at providing actionable insights from a retail dataset. Using Python and popular data analysis libraries, this project explores sales trends, top-performing products, categories, regions, and customers to support data-driven business decisions.
-
 ---
 
 ## Dataset
